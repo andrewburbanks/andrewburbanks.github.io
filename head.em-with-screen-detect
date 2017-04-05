@@ -1,0 +1,34 @@
+@{
+empy.include('defaults.em')
+sitetitle="Doctor Andrew Burbanks"
+pageabstract="""
+Dr Andrew Burbanks is a Senior Lecturer in the Department of Mathematics
+at the University of Portsmouth and a member of the Nonlinear and Complex
+Systems Group.
+"""
+}@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="description" content="@pageabstract" />
+    <meta name="keywords" content=" " />
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <title>@htmltitle</title>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="./css/home.css" type="text/css" media="handheld,screen" />
+<!--[if IE]><link href="./css/screen.css" rel="stylesheet" type="text/css" media="Screen" /><![endif]-->
+    <link rel="stylesheet" href="./css/screen.css" type="text/css" media="print,screen and (min-device-width:616px)" />
+  </head>
+  <body id="home" class="billboard">
+    <div id="page">
+      <p class="yank">
+	<a href="#siteheading">[Skip to content]</a>
+      </p>
+      @empy.include('nav.em')
+      <h1 id="siteheading">@sitetitle</h1>      
+      <div class="section">
+	<img src="large/whitebigbang04b.jpg" width="100%" alt="Department of Mathematics" />
+      </div>
+
