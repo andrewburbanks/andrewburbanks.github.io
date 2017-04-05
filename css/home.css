@@ -1,0 +1,19 @@
+html {
+ background:#fff;
+}
+
+#home #nav ul {
+ margin-bottom:0;
+}
+
+.third {
+ padding-bottom:1em;
+}
+.third h3 a {
+ color:#222;
+ text-decoration:none;
+}
+.third h3 a:hover {
+ color:#000;
+}
+

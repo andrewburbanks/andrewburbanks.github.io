@@ -1,0 +1,33 @@
+body {
+ min-width: 960px;
+}
+
+#page {
+ width:936px;
+ margin:0 auto;
+}
+
+div.third {
+ float:left;
+ margin-right: 24px;
+}
+
+.last, div.last, div.aside {
+ margin-right:0;
+}
+
+.third {
+ width: 296px;
+}
+.twothird {
+ width: 616px;
+ float:right;
+ position:relative; 
+}
+
+div.border {
+  padding-right:11px;
+  margin-right:12px;
+  border-right:1px solid #ddd;
+}
+

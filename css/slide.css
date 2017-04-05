@@ -1,0 +1,104 @@
+html {
+/*  filter: expression(document.execCommand("BackgroundImageCache", false, true)); */
+}
+
+.top-view .imageElement {
+	visibility:hidden;
+	position:relative;
+	left:0px; /* this moves position of image */
+	top:0;
+	padding-bottom:5px;
+	/* padding-left: -2px; this moves position of image in IE7 */ 
+}
+
+.textElement {
+	background-image:url(../small/black.png);
+	background-repeat:repeat-x;
+	color:#ffffff;
+	display:none;
+	height:60px;
+	position:absolute;
+	top:220px;
+	left:0px; /* this moves position of black bar */
+	width:921px;
+	z-index:1000;
+	padding-left: 15px; /* this just moves position of text NOT black bar */
+}
+
+.textElement a {
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight: bold;
+}
+
+.textElement a:link {
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight: bold;
+}
+
+.textElement a:hover {
+	text-decoration:underline;
+	color:#FFFFFF;
+	font-weight: bold;
+}
+
+.textElement a:visited {
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight: bold;
+}
+
+/*
+.textElement .slideMore a, a:link, a:visited {
+	text-decoration:none;
+	color:#fff;
+}
+.textElement .slideMore a:hover{
+text-decoration:underline;
+color:#fff;
+}
+*/
+
+.textElement h2 {
+	padding:5px 5px 0 2px;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:1.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.textElement p {
+	padding:0px 5px 5px 2px;
+	margin-top:1px;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:.9em;
+}
+
+.sideImage {
+	background-image:url(../small/greyline.gif);
+	background-repeat:repeat-x;
+	display:block;
+	float:left;
+	text-align:center;
+	width:100%;
+	z-index:998;
+}
+
+.navImages {
+	display:block;
+	float:left;
+/*	padding: 0px 3px; */
+	padding-left: 45%;
+	width:100%;
+	text-align:center;
+	z-index:999;
+}
+
+.navImage {
+	cursor:pointer;
+	z-index:1000;
+	float:left;
+}
+
