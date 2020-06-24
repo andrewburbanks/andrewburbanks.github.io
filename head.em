@@ -14,6 +14,7 @@ Systems Group.
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
     <meta name="description" content="@pageabstract" />
     <meta name="keywords" content=" " />
+    <meta name="referrer" content="origin" />
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
     <title>@htmltitle</title>
     <meta name="viewport" content="width=device-width" />
