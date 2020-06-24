@@ -155,7 +155,7 @@ body #header h2 {
  border:0;
 }
 
-.hide, .handheld {display:none;}
+.hide {display:none;}
 .show {display:block;}
 .showin {display:inline;}
 .tright {text-align:right;}
