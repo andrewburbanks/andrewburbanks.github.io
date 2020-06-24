@@ -25,6 +25,15 @@ Further details of published journal articles may be obtained via my
 <h3>Journal Papers Published</h3>
 <ol>
 
+<li>Burbanks AD, Osbaldestin AH, Thurlby JA,<br /><em>Rigorous bounds on the fractal dimension of the period-doubling attractor</em>,<br />In preparation, 2020.</li>
+
+<li>Burbanks AD, Osbaldestin AH, Thurlby JA,<br /><em>Period-doubling renormalisation fixed points in unimodal maps of odd critical exponent</em>,<br />In preparation, 2020.</li>
+
+<li>Cerasuolo M, Burbanks AD, Turner L,<br /><em>Multiscale modelling of neuroendocrine transdifferentiation in prostate cancer cells</em>,<br />In preparation, 2020.</li>
+
+<li>Burbanks AD, Osbaldestin AH, Thurlby JA,<br /><em>Rigorous bounds on period-doubling renormalisation fixed-points in maps with critical point of degree 4</em>,<br />Submitted to Communications in Mathematical Physics, [arXiv:2006.13127], 2020.  
+@preprint_link(href="https://arxiv.org/abs/2006.13127", name="arXiv:2006.13127")</li>
+
 <li>Wairegi A, Gamboa A, Burbanks AD, Lee EA, Farrelly D,<br /><em>Microscopic Superfluidity in 4He Clusters Stirred by a Rotating Impurity Molecule</em>,<br />Physical Review Letters, 112, 143401 (April 2014).
 @preprint_link(href="http://dx.doi.org/10.1103/PhysRevLett.112.143401", name="doi:10.1103/PhysRevLett.112.143401")</li>
 
