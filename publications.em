@@ -17,14 +17,15 @@ pagetitle="Research Publications"
 <a href="http://www.researcherid.com/rid/A-3316-2012"><img width="124" height="73" alt="ResearcherID" src="icon/rid.gif" style="float:right" /></a>
 </h2>
 
-<p>
+<p><img src="icon/orcid_16x16.gif" width=16 height=16 /><a href="https://orcid.org/0000-0003-0685-6670">https://orcid.org/0000-0003-0685-6670</a></p>
+<!-- <p>
 Further details of published journal articles may be obtained via my
 <a href="http://www.researcherid.com/rid/A-3316-2012">ResearcherID entry</a>.
-</p>
+</p> -->
 
 <h3>Papers</h3>
 
-<p><img src="icon/orcid_16x16.gif" width=16 height=16 /><a href="https://orcid.org/0000-0003-0685-6670">https://orcid.org/0000-0003-0685-6670</a></p>
+<p><img src="icon/orcid_16x16.gif" width=16 height=16 />&nbsp;ORCiD: <a href="https://orcid.org/0000-0003-0685-6670">https://orcid.org/0000-0003-0685-6670</a></p>
 
 <ol>
 
