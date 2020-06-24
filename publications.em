@@ -24,7 +24,7 @@ Further details of published journal articles may be obtained via my
 
 <h3>Journal Papers Published</h3>
 
-<p><img src="icons/orcid_16x16.gif" width=16 height=16 /><a href="https://orcid.org/0000-0003-0685-6670">https://orcid.org/0000-0003-0685-6670</a></p>
+<p><img src="icon/orcid_16x16.gif" width=16 height=16 /><a href="https://orcid.org/0000-0003-0685-6670">https://orcid.org/0000-0003-0685-6670</a></p>
 
 <ol>
 
