@@ -18,7 +18,6 @@
 	<li><a href="programmes.html">Research Programmes</a></li>
 	<li><a href="seminars.html">Seminars</a></li>
 	<li><a href="conferences.html">Conferences</a></li>
-	<li><a href="funding.html">Funding</a></li>
       </ul>
     </li>
     <li><a href="teaching.html" accesskey="4">Teaching</a>

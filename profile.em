@@ -18,11 +18,9 @@ pagetitle="Profile"
   <div class="twothird last">
     <a id="bio" name="bio"></a>
     <h3>Brief Biography</h3>
-    <p>Dr Andrew Burbanks is a Principal Lecturer in Mathematics and
-      an Associate Member of the Institute of Cosmology and
-      Gravitation at the University of Portsmouth in the UK.  His
-      main research interests are in nonlinear dynamics and the
-      visualisation of mathematical structures.</p>
+    <p>Dr Andrew Burbanks is an Associate Head (with responsibility for Research and Innovation)
+and a Principal Lecturer in Mathematics at the University of Portsmouth in the UK.  His
+      main research interests are in nonlinear dynamics.</p>
     <p>Dr Burbanks completed his PhD at the University of
       Loughborough, after which he went on to work at
       Hewlett-Packard's research laboratories in Bristol before
@@ -35,8 +33,7 @@ pagetitle="Profile"
       University of Cambridge Mathematics Tripos (Applied) on
       renormalisation in Dynamical Systems.</p>
     <p>Dr Burbanks joined the Department of Mathematics at the University of
-      Portsmouth in 2005, and is now a member of the Nonlinear and Complex
-      Systems Group.</p>
+      Portsmouth in 2005, and is now a member of the Applied Mathematics Group in the School of Mathematics and Physics.</p>
     <img style="float:right;padding-left:24px;padding-bottom:24px;" width="296" height="395" src="small/20100318moffatt.jpg" alt="A Burbanks and K Moffatt at the Royal Society" />
     <p>Dr Burbanks has been involved in several successful
       projects on the interface between science and public
@@ -55,7 +52,7 @@ pagetitle="Profile"
     <a name="roles" id="roles"></a>
     <h3>Roles</h3>
     <ul>
-      <li>Principal Lecturer in Mathematics</li>
+      <li>Associate Head (Research and Innovation) (2019-date)</li> <li>Principal Lecturer in Mathematics</li>
       <li>Research Coordinator, Department of Mathematics (2011-date)</li>
       <li>Postgraduate Admissions Tutor, Department of Mathematics (2011-2012)</li>
       <li>Associate Member, Institute of Cosmology and Gravitation (2005-date)</li>
@@ -80,6 +77,7 @@ pagetitle="Profile"
     <h3>Recent Career History</h3>
     
     <ul>
+      <li>2019-date<br />Associate Head (Research and Innovation). School of Mathematics and Physics, University of Portsmouth, UK.</li>
       <li>2012-date<br />Principal Lecturer. Department of Mathematics, University of Portsmouth, UK.</li>
       <li>2005-2012<br />Senior Lecturer. Department of Mathematics, University of Portsmouth, UK.</li>
       <li>2001-2005<br />Scientific Programmer (Permanent Post). School of Mathematics, University of Bristol, UK.</li>

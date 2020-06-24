@@ -34,6 +34,7 @@ pagetitle="Research Seminars"
 	  <h3>Recent Invited National Seminars</h3>
 	  
 	  <ul>
+<li>Jun 2020 - Mathematics colloquium, The Open University, UK.</li>
             <li>Jan 2012 - Department of Mathematics, University of Kent, Canterbury.</li>
 	    <li>July 2007 - Royal Society Summer Science Exhibition. The Dynamics of Spin.</li>
 	    <li>19th May 2007 - Sixth Institute of Mathematics and its Applications (IMA)Younger Mathematicians Conference, LMS, London.</li>

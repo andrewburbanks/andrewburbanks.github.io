@@ -14,8 +14,18 @@ pagetitle="Research Conferences"
 	  <h2>Recent Conference Participation</h2>
 	  
 	  <ul>
+<li>2020 - JuliaCon 2020.</li>
+<li>2020 - Teaching and Learning Mathematics Online (TALMO).</li>
+<li>2020 - Heads of Department of Mathematical Sciences Annual Conference (HoDoMs).</li>
+<li>2020 - British Mathematical Colloqium (BMC) and the British Applied Mathematics Colloquium (BAMC), University of Glasgow, Glasgow, UK.</li>
+<li>2020 - Opportunities at the Intersection of Science and Art, Following on from the 2017 INI programme on "Growth, Form, and Self-Organisation", Møller Institute, Cambridge, UK.</li>
+<li>2019 - British Applied Mathematics Colloquium, University of Bath, Bath, UK.</li>
+<li>2018 - Dynamics Days Europe, Loughborough University, Loughborough, UK.</li>
+<li>2017 - British Applied Mathematics Colloquium, University of Surrey, Guildford, UK.</li>
             <li>21-22/09/2009 - 4th International meeting for Caf&eacute; Scientifique/Science Caf&eacute; Organizers, Technical University of Denmark, Copenhagen.</li>
             <li>2009 - Annual Meeting of Research Correspondents, Isaac Newton Institute for the Mathematical Sciences, Cambridge, UK</li>
+<lu>2008 - Dynamics of Spin, Techfest, IIT Bombay, Mumbai, India.</li>
+<li>2007 - Dynamics of Spin, Royal Society Summer Science Exhibition, London, UK.</li>
 	    <li>9-13/7/2007 - Dynamics Days Europe, University of Loughborough, UK.</li>
 	    <li>8-10/11/2006 - Annual Festival of Art and Mathematics 2006, University of Portsmouth.</li>
 	    <li>4-10/8/2006 - Bridges Mathematics and Art Conference, London Knowledge Lab.</li>
@@ -34,7 +44,7 @@ pagetitle="Research Conferences"
 	  
 	  <ul>
 	    <li>8-10/11/2006 - Annual Festival of Art and Mathematics 2006, University of Portsmouth.</li>
-	    <li>2006--date - Co-Founder, co-organiser, and chair, Cafe Scientifique, Portsmouth.</li>
+	    <li>2006-2016 - Co-Founder, co-organiser, and chair, Cafe Scientifique, Portsmouth.</li>
 	    <li>/10/2005 - Annual Festival of Art and Mathematics 2005, University of Portsmouth</li>
 	  </ul>
 	  
